@@ -1,0 +1,19 @@
+Core:-
+1: Node.Js (Backend)
+
+Database:-
+1: MongoDB Database
+
+Package/Modules
+1: Express.Js (Framework Based on Node.Js): It is used and designing web applications quickly and easily.
+2: Mongoose (Object Data Modeling (ODM) library): It provides a straight forward schema based solution to model the applications.
+3: EJS (Embedded Javascript Templating Engine): It is templating engine that is used to generate HTML markup with plain Javascript.
+4: Multer (Image Uploading): It is middlware for handeling multipart/form data which is used for uploading images.
+5: Express Session (Storing Session Messages): It is used for storing messages in session
+6: Dotenv (Enironment Variables): It is used for loading environment variable from a .env file.
+7: Nodemon (Monitoring Server): It will monitor changes and automatically restarts the server in localhost with the changes.
+
+Frontend library
+1: Bootstarp 5 (Designing)
+2: Datatable (Pagination, Sorting etc)
+3: Fontawesome (Icons).
